@@ -1,5 +1,4 @@
 # IPL_Auction_analysis
-# IPL Auction Analysis with PySpark and SQL
 
 ## Overview
 
